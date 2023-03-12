@@ -2,6 +2,8 @@
 Project for the 2023 Next Generation Medical Simulation Hackathon at Queen's University
 By: Bruce Cao, Mason Mazzocco, Henry Bruin
 
+https://queensuca.sharepoint.com/:p:/t/GROUP-Participants-MedicalHackathon2023-Team3/EXaPNg2w1qhKoDhIGue_sGIBGWKVHex7rAbbeKuZxDoJcA?e=gNpjyF
+
 # Description
 Our group's project was a pediatric stress trainer which allows medical and nursing students to autonomously practice dealing with stress in young children, such as when they are receiving vaccines
 ## Heart rate graph
